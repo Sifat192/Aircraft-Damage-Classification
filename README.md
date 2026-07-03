@@ -102,8 +102,7 @@ Aircraft-Damage-Classification/
 ├── Aircraft_Damage_Classification_VGG16.ipynb
 ├── README.md
 ├── requirements.txt
-├── LICENSE
-└── images/
+└──  LICENSE
 ```
 
 ---
