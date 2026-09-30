@@ -71,6 +71,22 @@ Transfer learning is employed by:
 
 ---
 
+## Training and Prediction Workflow
+
+The diagram shows image preprocessing and augmentation,
+VGG16 feature extraction, custom classifier training,
+model evaluation, and predictions on unseen aircraft images.
+
+<p align="center">
+  <img src="aircraft-damage-workflow.png"
+       alt="Aircraft damage classification training and prediction workflow"
+       width="450">
+</p>
+
+[View full-size diagram](aircraft-damage-workflow.png)
+
+---
+
 ## Results
 
 The model successfully learns meaningful visual features from aircraft images using transfer learning and demonstrates effective classification performance on the test dataset.
